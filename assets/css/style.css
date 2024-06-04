@@ -269,6 +269,14 @@ h6 {
   line-height: 56px;
   color: #fff;
 }
+#hero small {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  /* font-style: italic; */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 56px;
+  color: #fff;
+}
 
 #hero p {
   color: #fff;
